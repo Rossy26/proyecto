@@ -1,0 +1,7 @@
+101,Rossimar,19,Colombia
+102,Carlos,22,Colombia
+103,Persona,21,Venezuela
+104,Persona2,19,USA
+105,niña,19,España
+106,juan,60,Perú
+107,Pedro,16,Ecuador
