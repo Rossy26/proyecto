@@ -46,7 +46,6 @@ int main() {
             break;
         case 2:
             mostrar(con);
-            
             break;
         case 3:
 
